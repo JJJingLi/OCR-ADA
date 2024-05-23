@@ -31,4 +31,4 @@ If you use our code or paper, please cite our paper:
 ```
 
 ## Acknowledgments
-Our code is developed based on [GAMO](https://github.com/SankhaSubhra/GAMO) and [PatchUp](https://github.com/chandar-lab/PatchUp). Thank them for sharing.
+Our code is developed based on [GAMO](https://github.com/SankhaSubhra/GAMO) and [PatchUp](https://github.com/chandar-lab/PatchUp). Thank the authors of these works for publicly releasing the code.
