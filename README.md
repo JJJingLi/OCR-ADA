@@ -21,7 +21,7 @@ Soon.
 If you use our code or paper, please cite our paper:
 ```
 @article{li2023towards,
-  author       = {{Jing Li, Qiu{-}Feng Wang, Kaizhu Huang, Xi Yang, Rui Zhang and John Yannis Goulermas},
+  author       = {Jing Li, Qiu{-}Feng Wang, Kaizhu Huang, Xi Yang, Rui Zhang and John Yannis Goulermas},
   title        = {Towards better long-tailed oracle character recognition with adversarial data augmentation},
   journal      = {Pattern Recognition},
   volume       = {140},
